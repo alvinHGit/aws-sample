@@ -1,0 +1,23 @@
+{
+  "name": "aws-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinHGit/aws-sample.git"
+  },
+  "author": "alvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinHGit/aws-sample/issues"
+  },
+  "homepage": "https://github.com/alvinHGit/aws-sample#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
