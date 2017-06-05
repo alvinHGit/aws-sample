@@ -19,6 +19,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - HelloWorldTest.js
     - app.js
     - package.json
